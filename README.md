@@ -18,4 +18,4 @@ These rules, which compare the behavior of the automaton to real life, can be co
 <li>Any dead cell with three live neighbours becomes a live cell.</li>
 <li>All other live cells die in the next generation. Similarly, all other dead cells stay dead.</li><br>
 
-Source: [Wikipedia](https://en.wikipedia.org/wiki/The_Game_of_Life)
+Source: [Wikipedia](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
